@@ -1,12 +1,28 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="AddToFavoritesPopup" />
+  <action id="ChangesView.Diff" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.Execute" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="DirDiffMenu.SynchronizeDiff" />
   <action id="EditorChooseLookupItem" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="GuiDesigner.Duplicate" />
   <action id="Images.Thumbnails.EnterAction" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt c" />
@@ -23,6 +39,11 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="ShowLiveRunConfigurations">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="ctrl f2" />
     <keyboard-shortcut first-keystroke="alt e" />
@@ -30,4 +51,6 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
