@@ -31,15 +31,17 @@
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="ctrl delete" />
   </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="alt delete" />
+  </action>
   <action id="EditorDeleteToWordEnd" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl numpad8" />
-    <keyboard-shortcut first-keystroke="shift ctrl up" />
+    <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="GuiDesigner.Duplicate" />
-  <action id="MoveStatementUp" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
@@ -50,6 +52,7 @@
   <action id="QuickChangeScheme" />
   <action id="QuickImplementations" />
   <action id="RecentChangedFiles" />
+  <action id="RecentChanges" />
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
@@ -62,11 +65,11 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="Replace" />
-  <action id="ResizeToolWindowUp" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SafeDelete" />
   <action id="SendEOF" />
   <action id="ShowLiveRunConfigurations">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
