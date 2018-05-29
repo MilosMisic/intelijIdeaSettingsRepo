@@ -1,5 +1,0 @@
-<keymap version="1" name="sdsdssd" parent="$default">
-  <action id="RearrangeCode">
-    <keyboard-shortcut first-keystroke="alt s" />
-  </action>
-</keymap>
