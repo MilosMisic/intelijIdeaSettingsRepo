@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy" parent="$default">
+<keymap version="1" name="Main" parent="$default">
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
     <keyboard-shortcut first-keystroke="shift alt back_space" />
@@ -9,10 +9,6 @@
   </action>
   <action id="AddToFavoritesPopup" />
   <action id="ChangesView.Diff" />
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl f4" />
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
   <action id="CompareTwoFiles" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
@@ -39,7 +35,6 @@
     <keyboard-shortcut first-keystroke="ctrl numpad8" />
     <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
-  <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="GuiDesigner.Duplicate" />
   <action id="NewClass">
