@@ -30,7 +30,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Java Class">
@@ -38,7 +38,7 @@
           <IdeaActionID>NewClass</IdeaActionID>
           <ShortCut>'Alt+C'</ShortCut>
           <Description>Java Class</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Watch...">
