@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="locallization_SR" type="PLAIN_TEXT" />
       <mapping pattern="locallization_en_US" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
