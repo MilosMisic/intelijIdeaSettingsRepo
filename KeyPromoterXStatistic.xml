@@ -94,7 +94,7 @@
           <IdeaActionID>NewClass</IdeaActionID>
           <ShortCut>'Alt+C'</ShortCut>
           <Description>Java Class</Description>
-          <Count>45</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -150,7 +150,7 @@
           <IdeaActionID>NewScratchFile</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+Insert'</ShortCut>
           <Description>Scratch File</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
