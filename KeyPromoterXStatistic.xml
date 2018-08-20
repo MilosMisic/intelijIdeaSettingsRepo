@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>454</Count>
+          <Count>455</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -206,7 +206,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2' or 'Alt+E'</ShortCut>
           <Description>Stop 'Server'</Description>
-          <Count>105</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Toccata [install]'">
