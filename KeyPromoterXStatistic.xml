@@ -33,6 +33,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy Reference">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
+          <Description>Copy Reference</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy Relative Path">
         <Item>
           <IdeaActionID>CopyReference</IdeaActionID>
@@ -150,7 +158,7 @@
           <IdeaActionID>NewClass</IdeaActionID>
           <ShortCut>'Alt+C'</ShortCut>
           <Description>Java Class</Description>
-          <Count>65</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
