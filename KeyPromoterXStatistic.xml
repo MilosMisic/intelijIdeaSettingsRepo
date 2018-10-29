@@ -161,6 +161,14 @@
           <Count>66</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Jump to Source">
+        <Item>
+          <IdeaActionID>EditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Jump to Source</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Messages">
         <Item>
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
@@ -214,7 +222,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'KeyServiceTest'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WeekdaysTest'">
