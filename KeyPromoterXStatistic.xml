@@ -190,7 +190,7 @@
           <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
           <ShortCut>'Insert'</ShortCut>
           <Description>New Watch...</Description>
-          <Count>158</Count>
+          <Count>161</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -510,7 +510,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>804</Count>
+          <Count>810</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
