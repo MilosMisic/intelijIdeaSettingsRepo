@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Client'">
@@ -198,7 +198,7 @@
           <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
           <ShortCut>'Insert'</ShortCut>
           <Description>New Watch...</Description>
-          <Count>171</Count>
+          <Count>174</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
