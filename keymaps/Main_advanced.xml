@@ -7,6 +7,9 @@
   <action id="ActivateMavenProjectsToolWindow">
     <keyboard-shortcut first-keystroke="alt f2" />
   </action>
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="alt f2" />
+  </action>
   <action id="AddToFavoritesPopup" />
   <action id="ChangesView.Diff" />
   <action id="ChooseRunConfiguration">
