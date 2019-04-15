@@ -630,7 +630,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2' or 'Alt+E'</ShortCut>
           <Description>Stop 'Server'</Description>
-          <Count>225</Count>
+          <Count>226</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Toccata [install]'">
