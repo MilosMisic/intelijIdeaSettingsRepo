@@ -206,7 +206,7 @@
           <IdeaActionID>NewClass</IdeaActionID>
           <ShortCut>'Alt+C'</ShortCut>
           <Description>Java Class</Description>
-          <Count>125</Count>
+          <Count>126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
