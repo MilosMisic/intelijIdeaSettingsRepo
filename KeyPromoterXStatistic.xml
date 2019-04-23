@@ -105,6 +105,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Server'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'app'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -118,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2212</Count>
+          <Count>2214</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -617,6 +625,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Maven: clean install'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+E'</ShortCut>
+          <Description>Stop 'Maven: clean install'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'RemoteDebugging'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -734,7 +750,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1524</Count>
+          <Count>1540</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
