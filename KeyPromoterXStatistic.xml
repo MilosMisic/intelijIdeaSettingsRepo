@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2350</Count>
+          <Count>2352</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -622,7 +622,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2' or 'Alt+E'</ShortCut>
           <Description>Stop 'Client'</Description>
-          <Count>176</Count>
+          <Count>177</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Configuration [install]'">
@@ -687,6 +687,14 @@
           <ShortCut>'Ctrl+F2' or 'Alt+E'</ShortCut>
           <Description>Stop 'Toccata [site]'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Toccata [verify]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+E'</ShortCut>
+          <Description>Stop 'Toccata [verify]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Unnamed'">
@@ -774,7 +782,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1691</Count>
+          <Count>1695</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
