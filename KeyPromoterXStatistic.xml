@@ -537,6 +537,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'shouldConvertMMSStoS()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'shouldConvertMMSStoS()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'shouldConvertToSta...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -838,7 +846,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1905</Count>
+          <Count>1906</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
