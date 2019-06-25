@@ -686,7 +686,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2' or 'Alt+E'</ShortCut>
           <Description>Stop 'Client'</Description>
-          <Count>177</Count>
+          <Count>178</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Configuration [install]'">
