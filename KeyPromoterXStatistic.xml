@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2642</Count>
+          <Count>2643</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -166,7 +166,7 @@
           <IdeaActionID>UsageView.Exclude</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Exclude</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -230,7 +230,7 @@
           <IdeaActionID>NewClass</IdeaActionID>
           <ShortCut>'Alt+C'</ShortCut>
           <Description>Java Class</Description>
-          <Count>151</Count>
+          <Count>154</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
