@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2732</Count>
+          <Count>2734</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -230,7 +230,7 @@
           <IdeaActionID>NewClass</IdeaActionID>
           <ShortCut>'Alt+C'</ShortCut>
           <Description>Java Class</Description>
-          <Count>158</Count>
+          <Count>160</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -878,7 +878,7 @@
           <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+Shift+B' or 'Ctrl+Shift+Button1 Click'</ShortCut>
           <Description>Type Declaration</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Migration...">
