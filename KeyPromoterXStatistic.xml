@@ -894,7 +894,7 @@
           <IdeaActionID>ChangeTypeSignature</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F6'</ShortCut>
           <Description>Type Migration...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
