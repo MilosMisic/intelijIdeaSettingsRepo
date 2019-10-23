@@ -68,6 +68,9 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="Replace" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="Run" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SafeDelete" />
@@ -90,6 +93,7 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
