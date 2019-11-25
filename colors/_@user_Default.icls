@@ -4,16 +4,22 @@
     <property name="created">2017-12-15T08:20:46</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2019-08-13T09:43:26</property>
+    <property name="modified">2019-11-25T09:24:54</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
+    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="FILESTATUS_COPIED" value="76b366" />
     <option name="FILESTATUS_RENAMED" value="3a8484" />
   </colors>
   <attributes>
+    <option name="CONSOLE_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="f7f5f4" />
+      </value>
+    </option>
     <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
       <value>
         <option name="FOREGROUND" value="96ff" />
