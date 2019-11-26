@@ -17,9 +17,6 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="CompareTwoFiles" />
-  <action id="DebugClass">
-    <keyboard-shortcut first-keystroke="shift ctrl f11" />
-  </action>
   <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
