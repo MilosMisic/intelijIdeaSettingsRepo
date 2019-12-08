@@ -1,71 +1,13 @@
 <scheme name="_@user_Default" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-12-15T08:20:46</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2019-08-13T09:43:26</property>
+    <property name="modified">2019-11-25T09:30:28</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="FILESTATUS_COPIED" value="76b366" />
     <option name="FILESTATUS_RENAMED" value="3a8484" />
   </colors>
-  <attributes>
-    <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
-      <value>
-        <option name="FOREGROUND" value="96ff" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="EXECUTIONPOINT_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="c5cc0" />
-        <option name="ERROR_STRIPE_COLOR" value="2154a6" />
-      </value>
-    </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="279b2d" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="JAVA_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="80" />
-      </value>
-    </option>
-    <option name="JAVA_STRING">
-      <value>
-        <option name="FOREGROUND" value="e2982a" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="LOCAL_VARIABLE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="58d17" />
-      </value>
-    </option>
-    <option name="METHOD_DECLARATION_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="STATIC_FIELD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="279b2d" />
-        <option name="FONT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="279b2d" />
-        <option name="FONT_TYPE" value="3" />
-      </value>
-    </option>
-  </attributes>
 </scheme>
